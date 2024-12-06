@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838570251672",
+    "project_id": "role-based-login-488b2",
+    "storage_bucket": "role-based-login-488b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838570251672:android:1a47504ab4f085c8c347ed",
+        "android_client_info": {
+          "package_name": "com.example.myloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTHZS1a1dO0EBT0-6viVHWr2bwpn8mnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
